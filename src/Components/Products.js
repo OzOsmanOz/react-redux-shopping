@@ -33,7 +33,7 @@ const Products = (props) => {
         </div>
         <div className="col my-auto">
           <h2 className="fw-bold my-3">{title}</h2>
-          <p className="fw-bold fs-4 my-5 bg-success px-5 w-50 rounded-1 text-white">
+          <p className="fw-bold fs-4 my-5 bg-success px-5 w-75 rounded-1 text-white">
             $ {price}
           </p>
           <h5 className="ps-2 py-2 my-3 w-75 fs-6 bg-secondary text-white rounded-1 ">
@@ -42,7 +42,7 @@ const Products = (props) => {
           <p className="my-3" style={{ fontSize: "12px" }}>
             {description}
           </p>
-          <button className="btn btn-lg btn-danger w-50">ADD TO CARD</button>
+          <button className="btn btn-lg btn-danger w-75">ADD TO CARD</button>
         </div>
       </div>
     </div>
