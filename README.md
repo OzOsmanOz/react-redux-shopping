@@ -2,6 +2,8 @@
 
 https://user-images.githubusercontent.com/107813778/199739884-77553f53-aacb-4962-82df-6572a00d9425.mp4
 
+## Used technologies
+
 ![html5](https://user-images.githubusercontent.com/107813778/199717088-923b7581-af10-4623-8fd2-4e64a6f75440.png)
 ![css3](https://user-images.githubusercontent.com/107813778/199717092-b4546a4b-bea4-49f4-8916-7352802e1edc.png)
 ![bootstrap](https://user-images.githubusercontent.com/107813778/199717093-4f02b5be-1293-417e-b16e-fd389f58cca0.png)
