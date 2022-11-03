@@ -24,7 +24,7 @@ const ProductsList = (props) => {
 
   return (
     <div
-      className="container products-list mt-5 pt-5 "
+      className="container products-list mt-5 pt-5 d-flex justify-content-center align-items-center"
       style={{ display: "flex", flexWrap: "wrap" }}
     >
       {productsState.products.map((pro) => {

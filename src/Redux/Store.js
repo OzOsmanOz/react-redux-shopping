@@ -1,5 +1,6 @@
-import ProductsReducer from "./ProductsReducer";
 import { createStore, combineReducers } from "redux";
+
+import ProductsReducer from "../Redux/Reducer/ProductsReducer";
 
 const rootReducer = combineReducers({
   productsState: ProductsReducer,
