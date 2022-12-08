@@ -5,7 +5,6 @@ https://user-images.githubusercontent.com/107813778/199739884-77553f53-aacb-4962
 ## Used technologies
 
 ![htmlicon](https://user-images.githubusercontent.com/107813778/206440381-21111f1c-d035-41ae-895f-6706805f06ea.png)
-
 ![cssicon](https://user-images.githubusercontent.com/107813778/206440399-e9968f1d-40aa-4774-b6ca-e16a0e578e5a.png)
 ![bootstrapicon](https://user-images.githubusercontent.com/107813778/206440411-46f5dc0c-c7f4-4cda-9c86-e3beebf7b17d.png)
 ![jsicon](https://user-images.githubusercontent.com/107813778/206440431-a59ed6a6-72d1-4cd8-91e3-b91d06ef4fed.png)
